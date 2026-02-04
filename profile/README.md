@@ -121,25 +121,25 @@ python demo.py
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/artificial-intelligence/artificial-intelligence.png" width="60px"/><br>
+🤖<br>
 <b>AutoCoder Agent</b><br>
 <sub>Production AI coding agent</sub><br>
 <a href="https://github.com/trae-community/trae-agents/tree/main/autocoder">View →</a>
 </td>
 <td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/workflow/workflow.png" width="60px"/><br>
+🎯<br>
 <b>Skill Orchestrator</b><br>
 <sub>Dynamic skill composition</sub><br>
 <a href="https://github.com/trae-community/trae-skills">View →</a>
 </td>
 <td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/monitoring/monitoring.png" width="60px"/><br>
+📊<br>
 <b>AI DevOps</b><br>
 <sub>Observability dashboard</sub><br>
 <a href="https://github.com/trae-community/trae-demos/tree/main/devops">Demo →</a>
 </td>
 <td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/prompt-engineering/prompt-engineering.png" width="60px"/><br>
+🎨<br>
 <b>Prompt Lab</b><br>
 <sub>Interactive playground</sub><br>
 <a href="https://github.com/trae-community/trae-learning/tree/main/prompt-lab">Try →</a>
@@ -147,7 +147,6 @@ python demo.py
 </tr>
 </table>
 
-<br>
 
 ## 🌟 How to Participate
 
