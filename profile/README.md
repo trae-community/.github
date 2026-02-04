@@ -1,10 +1,3 @@
-████████╗██████╗  █████╗ ███████╗
-╚══██╔══╝██╔══██╗██╔══██╗██╔════╝
-   ██║   ██████╔╝███████║█████╗  
-   ██║   ██╔══██╗██╔══██║██╔══╝  
-   ██║   ██║  ██║██║  ██║███████╗
-   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
-
 TRAE is an AI-native coding community focused on
 agentic workflows, system-level thinking, and collaborative engineering.
 
