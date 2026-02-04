@@ -1,268 +1,238 @@
 <div align="center">
 
-# 🚀 TRAE Community
+<img src="https://avatars.githubusercontent.com/u/257951088?s=200&v=4" width="120px" alt="TRAE Community" />
 
-**An AI-Native Coding Community**
+# TRAE Community
 
-*Agentic Workflows • System-Level Thinking • Collaborative Engineering*
+### 🤖 An AI-Native Coding Community
 
-[![GitHub Org](https://img.shields.io/badge/GitHub-TRAE-blue?logo=github)](https://github.com/trae-community)
-[![Discord](https://img.shields.io/badge/Join-Discord-7289da?logo=discord&logoColor=white)](https://discord.gg/your-invite)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Twitter Follow](https://img.shields.io/twitter/follow/trae_community?style=social)](https://twitter.com/trae_community)
+**Agentic Workflows • System-Level Thinking • Collaborative Engineering**
 
-[English](#) • [中文](README.zh-CN.md)
+[![GitHub](https://img.shields.io/badge/GitHub-TRAE-181717?style=flat-square&logo=github)](https://github.com/trae-community)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Us-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/your-invite)
+[![Twitter](https://img.shields.io/twitter/follow/trae_community?style=flat-square&logo=x&color=000000)](https://twitter.com/trae_community)
+[![License](https://img.shields.io/badge/License-MIT-success?style=flat-square)](LICENSE)
 
-</div>
-
----
-
-## 📖 Table of Contents
-
-- [About TRAE](#-about-trae)
-- [Repository Dashboard](#-repository-dashboard)
-- [Quick Start](#-quick-start)
-- [Featured Projects](#-featured-projects)
-- [How to Participate](#-how-to-participate)
-- [Community](#-community)
-- [Contributors](#-contributors)
+[**🏠 Home**](https://trae.community) • [**📚 Docs**](https://docs.trae.community) • [**🎓 Learn**](https://learn.trae.community) • [**💬 Discussions**](https://github.com/orgs/trae-community/discussions) • [**中文**](README.zh-CN.md)
 
 ---
-
-## 🎯 About TRAE
-
-TRAE (Thoughtful, Reflective, Adaptive Engineering) is a community of builders exploring the frontier of **AI-native software engineering**.
 
 ### What We Believe
 
-- 🤖 **AI as a collaborator**, not just a tool
-- 🏗️ **System thinking** over feature delivery
-- 🌱 **Long-term construction** over short-term output
-- 🤝 **Learn by building** together
+🤖 AI as collaborator • 🏗️ System thinking • 🌱 Long-term construction • 🤝 Learn by building
 
-### Our Focus Areas
+</div>
 
-```mermaid
-graph LR
-    A[AI Agents] --> D[Production Systems]
-    B[MCP Integration] --> D
-    C[Skill Libraries] --> D
-    D --> E[Real-world Impact]
-```
+<br>
 
----
+## 📊 Repository Ecosystem
 
-## 📊 Repository Dashboard
-
-### 🔧 Core Agent & System Practices
-
-| Repository | Description | Status | Activity |
-|-----------|-------------|--------|----------|
-| [`trae-agents`](https://github.com/trae-community/trae-agents) | AI coding agent design patterns and best practices | 🟢 Active | ![Stars](https://img.shields.io/github/stars/trae-community/trae-agents?style=social) |
-| [`trae-mcp`](https://github.com/trae-community/trae-mcp) | Model Context Protocol in AI workflows | 🟢 Active | ![Stars](https://img.shields.io/github/stars/trae-community/trae-mcp?style=social) |
-| [`trae-skills`](https://github.com/trae-community/trae-skills) | Reusable execution and control skills | 🟡 Growing | ![Stars](https://img.shields.io/github/stars/trae-community/trae-skills?style=social) |
-
-### 📚 Learning & Experiments
-
-| Repository | Description | Status | Activity |
-|-----------|-------------|--------|----------|
-| [`trae-learning`](https://github.com/trae-community/trae-learning) | Structured learning paths for AI-native development | 🟢 Active | ![Stars](https://img.shields.io/github/stars/trae-community/trae-learning?style=social) |
-| [`trae-demos`](https://github.com/trae-community/trae-demos) | 50+ runnable demos and real-world case studies | 🟢 Active | ![Stars](https://img.shields.io/github/stars/trae-community/trae-demos?style=social) |
-
-### 🤝 Co-creation & Community
-
-| Repository | Description | Status | Activity |
-|-----------|-------------|--------|----------|
-| [`trae-co-creation-projects`](https://github.com/trae-community/trae-co-creation-projects) | Community-driven collaborative projects | 🟢 Active | ![Stars](https://img.shields.io/github/stars/trae-community/trae-co-creation-projects?style=social) |
-| [`discussions`](https://github.com/trae-community/discussions) | Technical discussions and knowledge sharing | 🟢 Active | ![Comments](https://img.shields.io/github/discussions/trae-community/discussions) |
-| [`trae-friends-events`](https://github.com/trae-community/trae-friends-events) | Meetups, workshops, and event archives | 🟡 Growing | ![Stars](https://img.shields.io/github/stars/trae-community/trae-friends-events?style=social) |
-
-### 🎨 Templates & Resources
-
-| Repository | Description | Status | Activity |
-|-----------|-------------|--------|----------|
-| [`templates`](https://github.com/trae-community/templates) | Production-ready project templates | 🟢 Active | ![Stars](https://img.shields.io/github/stars/trae-community/templates?style=social) |
-| [`awesome-trae`](https://github.com/trae-community/awesome-trae) | Curated tools, papers, and resources | 🟢 Active | ![Stars](https://img.shields.io/github/stars/trae-community/awesome-trae?style=social) |
-
-### ⚙️ Governance
+<details open>
+<summary><b>🔧 Core Systems</b> — Agent design, MCP integration, skill libraries</summary>
+<br>
 
 | Repository | Description | Status |
 |-----------|-------------|--------|
-| [`.github`](https://github.com/trae-community/.github) | Contribution guidelines and community rules | 🟢 Maintained |
+| [**trae-agents**](https://github.com/trae-community/trae-agents) | AI coding agent design patterns & best practices | ![](https://img.shields.io/github/stars/trae-community/trae-agents?style=flat-square) 🟢 |
+| [**trae-mcp**](https://github.com/trae-community/trae-mcp) | Model Context Protocol in AI workflows | ![](https://img.shields.io/github/stars/trae-community/trae-mcp?style=flat-square) 🟢 |
+| [**trae-skills**](https://github.com/trae-community/trae-skills) | Reusable execution and control skills | ![](https://img.shields.io/github/stars/trae-community/trae-skills?style=flat-square) 🟡 |
 
-**Legend**: 🟢 Active | 🟡 Growing | 🔵 Stable | 🟠 Experimental
+</details>
 
----
+<details open>
+<summary><b>📚 Learning & Demos</b> — Structured paths & runnable examples</summary>
+<br>
+
+| Repository | Description | Status |
+|-----------|-------------|--------|
+| [**trae-learning**](https://github.com/trae-community/trae-learning) | Structured learning paths for AI-native development | ![](https://img.shields.io/github/stars/trae-community/trae-learning?style=flat-square) 🟢 |
+| [**trae-demos**](https://github.com/trae-community/trae-demos) | 50+ runnable demos and real-world case studies | ![](https://img.shields.io/github/stars/trae-community/trae-demos?style=flat-square) 🟢 |
+
+</details>
+
+<details>
+<summary><b>🤝 Community & Resources</b> — Co-creation, templates, governance</summary>
+<br>
+
+| Repository | Description | Status |
+|-----------|-------------|--------|
+| [**trae-co-creation-projects**](https://github.com/trae-community/trae-co-creation-projects) | Community-driven collaborative projects | ![](https://img.shields.io/github/stars/trae-community/trae-co-creation-projects?style=flat-square) 🟢 |
+| [**discussions**](https://github.com/trae-community/discussions) | Technical discussions & knowledge sharing | ![](https://img.shields.io/github/discussions/trae-community/discussions?style=flat-square) 🟢 |
+| [**templates**](https://github.com/trae-community/templates) | Production-ready project templates | ![](https://img.shields.io/github/stars/trae-community/templates?style=flat-square) 🟢 |
+| [**awesome-trae**](https://github.com/trae-community/awesome-trae) | Curated tools, papers, and resources | ![](https://img.shields.io/github/stars/trae-community/awesome-trae?style=flat-square) 🟢 |
+| [**trae-friends-events**](https://github.com/trae-community/trae-friends-events) | Meetups, workshops & event archives | ![](https://img.shields.io/github/stars/trae-community/trae-friends-events?style=flat-square) 🟡 |
+| [**.github**](https://github.com/trae-community/.github) | Contribution guidelines & community rules | 🟢 |
+
+</details>
+
+> **Legend**: 🟢 Active • 🟡 Growing • 🔵 Stable • 🟠 Experimental
+
+<br>
 
 ## 🚀 Quick Start
 
-### For Explorers 👀
+<table>
+<tr>
+<td width="50%">
 
+### 👀 Explorers
 ```bash
-# Clone a demo and run it
 git clone https://github.com/trae-community/trae-demos
 cd trae-demos/getting-started
 pip install -r requirements.txt
 python demo.py
 ```
 
-### For Learners 📖
+</td>
+<td width="50%">
 
-1. Start with [`trae-learning`](https://github.com/trae-community/trae-learning) → Choose your path
-2. Follow structured modules → Build hands-on projects
-3. Join [`discussions`](https://github.com/trae-community/discussions) → Ask questions
+### 📖 Learners
+1. Browse [`trae-learning`](https://github.com/trae-community/trae-learning)
+2. Choose your learning path
+3. Build hands-on projects
+4. Join [`discussions`](https://github.com/trae-community/discussions)
 
-### For Builders 🔨
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-1. Browse [`trae-co-creation-projects`](https://github.com/trae-community/trae-co-creation-projects)
-2. Find a project that interests you
-3. Read `CONTRIBUTING.md` and submit your first PR
+### 🔨 Builders
+1. Pick a project from [`trae-co-creation`](https://github.com/trae-community/trae-co-creation-projects)
+2. Read `CONTRIBUTING.md`
+3. Submit your first PR
 
-### For Innovators 💡
+</td>
+<td width="50%">
 
-1. Use [`templates`](https://github.com/trae-community/templates) → Bootstrap your project
-2. Integrate [`trae-skills`](https://github.com/trae-community/trae-skills) → Add AI capabilities
-3. Share back with the community
+### 💡 Innovators
+1. Fork [`templates`](https://github.com/trae-community/templates)
+2. Integrate [`trae-skills`](https://github.com/trae-community/trae-skills)
+3. Share back with community
 
----
+</td>
+</tr>
+</table>
+
+<br>
 
 ## ⭐ Featured Projects
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3>🤖 AutoCoder Agent</h3>
-      <p>A production-ready AI coding agent with MCP integration</p>
-      <p>
-        <a href="https://github.com/trae-community/trae-agents/tree/main/autocoder">
-          <img src="https://img.shields.io/badge/View-Project-blue" />
-        </a>
-        <img src="https://img.shields.io/github/stars/trae-community/trae-agents?style=social" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3>🎯 Skill Orchestrator</h3>
-      <p>Dynamic skill composition for complex AI workflows</p>
-      <p>
-        <a href="https://github.com/trae-community/trae-skills">
-          <img src="https://img.shields.io/badge/View-Project-blue" />
-        </a>
-        <img src="https://img.shields.io/github/stars/trae-community/trae-skills?style=social" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>📊 AI DevOps Dashboard</h3>
-      <p>Observability tools for AI-assisted development</p>
-      <p>
-        <a href="https://github.com/trae-community/trae-demos/tree/main/devops">
-          <img src="https://img.shields.io/badge/View-Demo-green" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3>🎨 Prompt Engineering Lab</h3>
-      <p>Interactive playground for prompt optimization</p>
-      <p>
-        <a href="https://github.com/trae-community/trae-learning/tree/main/prompt-lab">
-          <img src="https://img.shields.io/badge/Try-Live-orange" />
-        </a>
-      </p>
-    </td>
-  </tr>
+<tr>
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/artificial-intelligence/artificial-intelligence.png" width="60px"/><br>
+<b>AutoCoder Agent</b><br>
+<sub>Production AI coding agent</sub><br>
+<a href="https://github.com/trae-community/trae-agents/tree/main/autocoder">View →</a>
+</td>
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/workflow/workflow.png" width="60px"/><br>
+<b>Skill Orchestrator</b><br>
+<sub>Dynamic skill composition</sub><br>
+<a href="https://github.com/trae-community/trae-skills">View →</a>
+</td>
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/monitoring/monitoring.png" width="60px"/><br>
+<b>AI DevOps</b><br>
+<sub>Observability dashboard</sub><br>
+<a href="https://github.com/trae-community/trae-demos/tree/main/devops">Demo →</a>
+</td>
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/prompt-engineering/prompt-engineering.png" width="60px"/><br>
+<b>Prompt Lab</b><br>
+<sub>Interactive playground</sub><br>
+<a href="https://github.com/trae-community/trae-learning/tree/main/prompt-lab">Try →</a>
+</td>
+</tr>
 </table>
 
----
+<br>
 
 ## 🌟 How to Participate
 
-### Entry Philosophy
+<div align="center">
 
-> **There is no single entry point.**  
-> TRAE is a network, not a funnel.
+> **"There is no single entry point. TRAE is a network, not a funnel."**
 
-Choose your own adventure:
+</div>
 
-#### 🔍 **Observer Mode**
+<details>
+<summary><b>🔍 Observer Mode</b> — Browse, watch, learn passively</summary>
+<br>
+
 - Browse repositories and read code
-- Watch demos and explore case studies
+- Watch demos and explore case studies  
 - Lurk in discussions and learn from others
 
-#### 🎓 **Learner Mode**
+</details>
+
+<details>
+<summary><b>🎓 Learner Mode</b> — Follow paths, build projects</summary>
+<br>
+
 - Follow structured learning paths
 - Complete hands-on projects
 - Ask questions and get feedback
 
-#### 🛠️ **Builder Mode**
+</details>
+
+<details>
+<summary><b>🛠️ Builder Mode</b> — Contribute to active projects</summary>
+<br>
+
 - Pick an active project and contribute
 - Fix bugs, add features, improve docs
-- Collaborate with other community members
+- Collaborate with other members
 
-#### 🚀 **Pioneer Mode**
+</details>
+
+<details>
+<summary><b>🚀 Pioneer Mode</b> — Lead and innovate</summary>
+<br>
+
 - Start a new co-creation project
 - Propose experimental ideas
-- Lead a community initiative
+- Lead community initiatives
 
-### Contribution Areas
+</details>
 
-<div align="center">
+### Contribution Quick Links
 
-| Area | What You Can Do | Get Started |
-|------|----------------|-------------|
-| **Code** | Submit PRs, fix bugs, add features | [Contributing Guide](https://github.com/trae-community/.github/blob/main/CONTRIBUTING.md) |
-| **Documentation** | Improve docs, write tutorials | [Docs Issues](https://github.com/trae-community/trae-learning/issues?q=is%3Aissue+is%3Aopen+label%3Adocumentation) |
-| **Design** | Create diagrams, UI/UX improvements | [Design System](https://github.com/trae-community/templates/tree/main/design) |
-| **Testing** | Write tests, report bugs | [Testing Guide](https://github.com/trae-community/.github/blob/main/TESTING.md) |
-| **Community** | Answer questions, mentor newcomers | [Discussions](https://github.com/trae-community/discussions) |
+| 💻 Code | 📝 Docs | 🎨 Design | 🧪 Testing | 💬 Community |
+|:---:|:---:|:---:|:---:|:---:|
+| [Guide](https://github.com/trae-community/.github/blob/main/CONTRIBUTING.md) | [Issues](https://github.com/trae-community/trae-learning/issues?q=label%3Adocumentation) | [System](https://github.com/trae-community/templates/tree/main/design) | [Guide](https://github.com/trae-community/.github/blob/main/TESTING.md) | [Discuss](https://github.com/trae-community/discussions) |
 
-</div>
-
----
+<br>
 
 ## 💬 Community
 
-### Connect With Us
-
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-Join_Chat-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-invite)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/trae_community)
-[![GitHub](https://img.shields.io/badge/GitHub-Discussions-181717?style=for-the-badge&logo=github)](https://github.com/orgs/trae-community/discussions)
-[![Newsletter](https://img.shields.io/badge/Newsletter-Subscribe-FF6B6B?style=for-the-badge&logo=substack)](https://trae.substack.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-invite)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/trae_community)
+[![GitHub Discussions](https://img.shields.io/badge/Discussions-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/trae-community/discussions)
+
+![Stars](https://img.shields.io/github/stars/trae-community?style=social)
+![Followers](https://img.shields.io/github/followers/trae-community?style=social)
+![Discord](https://img.shields.io/discord/YOUR_DISCORD_ID?style=social&label=Discord)
+
+**📅 Monthly Office Hours** • **🎤 Show & Tell** • **🏆 Quarterly Hackathons**
+
+[Subscribe to Calendar](https://calendar.google.com/) • [Register for Events](https://github.com/trae-community/trae-friends-events)
 
 </div>
 
-### Community Stats
+<br>
 
-<div align="center">
+## 🗺️ Roadmap 
+[View full roadmap →](https://github.com/orgs/trae-community/projects)
 
-![GitHub Org's stars](https://img.shields.io/github/stars/trae-community?style=social)
-![GitHub followers](https://img.shields.io/github/followers/trae-community?style=social)
-![Discord members](https://img.shields.io/discord/YOUR_DISCORD_ID?label=Discord%20Members&style=social)
-
-</div>
-
-### Events & Meetups
-
-- 📅 **Monthly Office Hours**: First Friday of every month ([Subscribe to calendar](https://calendar.google.com/))
-- 🎤 **AI Coding Show & Tell**: Share your projects ([Register here](https://forms.gle/))
-- 🏆 **Quarterly Hackathons**: Build with the community ([View upcoming](https://github.com/trae-community/trae-friends-events))
-
----
+<br>
 
 ## 👥 Contributors
 
 <div align="center">
-
-### Core Team
-
-<!-- Replace with actual team members -->
-<!-- <a href="https://github.com/member1"><img src="https://github.com/member1.png" width="60px" style="border-radius:50%"/></a>
-<a href="https://github.com/member2"><img src="https://github.com/member2.png" width="60px" style="border-radius:50%"/></a>
-<a href="https://github.com/member3"><img src="https://github.com/member3.png" width="60px" style="border-radius:50%"/></a> -->
-
-### Community Contributors
 
 <a href="https://github.com/trae-community/.github/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=trae-community/.github" />
@@ -274,40 +244,10 @@ Choose your own adventure:
 
 ---
 
-## 📜 License
-
-Most TRAE repositories are licensed under [MIT License](LICENSE), unless specified otherwise.
-
----
-
-## 🗺️ Roadmap
-
-### 2026 Q1-Q2 Focus
-- [ ] Launch MCP integration framework v2.0
-- [ ] 100+ community demos and case studies
-- [ ] AI coding certification program
-- [ ] Enterprise adoption toolkit
-
-[View full roadmap →](https://github.com/orgs/trae-community/projects)
-
----
-
-## ⚡ Quick Links
-
-- [🏠 Community Home](https://trae.community)
-- [📚 Documentation](https://docs.trae.community)
-- [🎓 Learning Portal](https://learn.trae.community)
-- [💼 Jobs Board](https://jobs.trae.community)
-- [🛠️ Tool Directory](https://tools.trae.community)
-
----
-
 <div align="center">
 
 **Built with 🤖 by humans who believe in AI collaboration**
 
-[![Star History](https://img.shields.io/badge/Star-History-blue?style=for-the-badge)](https://star-history.com/#trae-community/.github)
-
-*TRAE values long-term construction over short-term output.*
+MIT License • [Star History](https://star-history.com/#trae-community/.github) • *Long-term construction over short-term output*
 
 </div>
