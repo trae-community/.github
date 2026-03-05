@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/257951088?s=200&v=4" width="120px" alt="TRAE Community" />
+<img src="../assets/image/Community.gif" width="100%" alt="TRAE Community" />
 
 # TRAE Community
 
