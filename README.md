@@ -2,7 +2,7 @@
 
 Community governance, contribution guidelines, and project templates for TRAE Community.
 
-📍 **Organization Profile**: [Main README](./profile/README.md) | [中文版](./profile/README.zh-CN.md)
+📍 **Organization Profile**: [Main README](./profile/README.md) | [中文](./profile/README.zh-CN.md)
 
 ---
 
