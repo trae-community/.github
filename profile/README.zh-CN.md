@@ -2,8 +2,6 @@
 
 <img src="../assets/image/Community.gif" width="100%" alt="TRAE Community" />
 
-# TRAE Community
-
 ### 🤖 一个 AI 原生的编程社区
 
 **智能体工作流 • 系统级思维 • 协作式工程**

@@ -2,8 +2,6 @@
 
 <img src="../assets/image/Community.gif" width="100%" alt="TRAE Community" />
 
-# TRAE Community
-
 ### 🤖 An AI-Native Coding Community
 
 **Agentic Workflows • System-Level Thinking • Collaborative Engineering**
