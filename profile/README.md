@@ -184,7 +184,7 @@ Have an idea?
 <summary><b>🛠️ Builder Mode</b> — Contribute to active projects</summary>
 <br>
 
-- Pick an active project (look for 🟢 or 🟡 status)
+- Pick an active project
 - Fix bugs, add features, improve docs
 - Collaborate with other community members
 - Read our [Contribution Guidelines](./CONTRIBUTING.md)
